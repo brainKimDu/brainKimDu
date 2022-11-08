@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am interested in Mobile Robot(AGV, AMR, parcel robot), SDV (self Driving Vehicle) and Robot arm control.
 Also I have engeering license such as Engineer Fire Fighting Facilities - Electrical and Engineer Electricity
-So, I interested in fire protection system and rescue robot
+So, I interested in fire protection system or rescue robot
 
 
 
