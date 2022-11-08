@@ -1,8 +1,15 @@
 ### Hi there 👋
+I am interested in Mobile Robot(AGV, AMR, parcel robot), SDV (self Driving Vehicle) and Robot arm control.
+Also I have engeering license such as Engineer Fire Fighting Facilities - Electrical and Engineer Electricity
+So, I interested in fire protection system and rescue robot
 
-<div align=center><h1>📚 STACKS</h1></div>
 
-<div align=center> 
+
+
+
+<div><h1>📚 STACKS</h1></div>
+
+<div> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -28,8 +35,8 @@
 </div>
   
   
-<div align=center><h1>🌱 I'm Studing at...</h1></div>
-<div align=center>
+<div><h1>🌱 I'm Studing at...</h1></div>
+<div>
 <br>
 
 ![화면 캡처 2022-11-08 232109](https://user-images.githubusercontent.com/110883172/200596671-081bded6-2298-43ef-8f8d-f84b7d7c7fd8.png)
@@ -39,11 +46,11 @@
 </div>
 
 
-<div align=center><h1>🌱 I made it!... </h1></div>
+<div><h1>🌱 I made it!... </h1></div>
 </div>
 
 
-# project
+## project
 - Traffic
 
 
