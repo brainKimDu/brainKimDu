@@ -69,7 +69,7 @@ https://github.com/brainKimDu/python-_data
   - Analysis of World Terror Data
   - Electrical engineer license analysis  
   - graphic card price analysis and find reasonble price (using NaverAPI)
-  - Edya is Korean coffe brand. Is Edya opening store nearby starbuks? (using Selenium)
+  - Edya is Korean coffee brand. Is Edya opening store nearby starbuks? (using Selenium)
   - Korean programming lenguage book analysis (using NaverAPI)
 
 
