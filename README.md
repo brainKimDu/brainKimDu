@@ -54,14 +54,13 @@ So, I interested in fire protection system or rescue robot
 
 ## project
 
-
-- (university senier project) Robot arm contorl by real time image processing 
+#### (university senier project) Robot arm contorl by real time image processing 
 https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-
 
-- (Term Project) Mutcoin (Agricultural product management game)
+#### (Term Project) Mutcoin (Agricultural product management game)
 https://github.com/brainKimDu/JAVA_TermProjeck
 
-- (EDA project)
+#### (EDA project)
 https://github.com/brainKimDu/python-_data
   - Analysis of World Terror Data
   - Electrical engineer license analysis  
