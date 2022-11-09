@@ -57,8 +57,12 @@ So, I interested in fire protection system or rescue robot
 #### (university senier project) Robot arm contorl by real time image processing 
 https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-
 
+
+
 #### (Term Project) Mutcoin (Agricultural product management game)
 https://github.com/brainKimDu/JAVA_TermProjeck
+
+
 
 #### (EDA project)
 https://github.com/brainKimDu/python-_data
@@ -68,13 +72,18 @@ https://github.com/brainKimDu/python-_data
   - Edya is Korean coffe brand. Is Edya opening store nearby starbuks? (using Selenium)
   - Korean programming lenguage book analysis (using NaverAPI)
 
+
+
 #### currently studing Project
 (EDA project) Checking  traffic infra on seoul and find solution for enhancing traffic infra
+
 https://github.com/addineduteam/Traffic 
+
 
 
 ## make open Source
 - read csv, excel file and make mySQL table and insert csv, excel data (for local or Amazon AWS)
+
 https://github.com/brainKimDu/SQL_Maker
 
 
