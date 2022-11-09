@@ -23,6 +23,8 @@ So, I interested in fire protection system or rescue robot
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  
   <br>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
@@ -51,21 +53,32 @@ So, I interested in fire protection system or rescue robot
 
 
 ## project
+
+
 - (university senier project) Robot arm contorl by real time image processing 
 https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-
 
 - (Term Project) Mutcoin (Agricultural product management game)
 https://github.com/brainKimDu/JAVA_TermProjeck
 
-- (EDA project) 
+- (EDA project)
+https://github.com/brainKimDu/python-_data
   - Analysis of World Terror Data
-  - Electrical engineer license analysis 
-  - graphic card price analysis and find reasonble price
-  - Edya is Korean coffe brand. Is Edya opening store nearby starbuks? (by Selenium
-  - Korean 
-## currently studing Project
+  - Electrical engineer license analysis  
+  - graphic card price analysis and find reasonble price (using NaverAPI)
+  - Edya is Korean coffe brand. Is Edya opening store nearby starbuks? (using Selenium)
+  - Korean programming lenguage book analysis (using NaverAPI)
+
+#### currently studing Project
 (EDA project) Checking  traffic infra on seoul and find solution for enhancing traffic infra
 https://github.com/addineduteam/Traffic 
+
+
+## make open Source
+- read csv, excel file and make mySQL table and insert csv, excel data (for local or Amazon AWS)
+https://github.com/brainKimDu/SQL_Maker
+
+
 
 <!--
 **brainKimDu/brainKimDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
