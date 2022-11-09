@@ -48,7 +48,7 @@ So, I interested in fire protection system or rescue robot
 </div>
 
 
-<div><h1>🌱 I made it!... </h1></div>
+<div><h1>🤔 I made it!... </h1></div>
 </div>
 
 
@@ -74,7 +74,7 @@ https://github.com/brainKimDu/python-_data
 
 
 
-#### currently studing Project
+#### 🔭 currently studing Project
 (EDA project) Checking  traffic infra on seoul and find solution for enhancing traffic infra
 
 https://github.com/addineduteam/Traffic 
