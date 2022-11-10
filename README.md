@@ -75,7 +75,7 @@ https://github.com/brainKimDu/python-_data
 
 
 #### 🔭 currently studing Project
-(EDA project) Checking  traffic infra on seoul and find solution for enhancing traffic infra
+(EDA project) Checking traffic infra on seoul and find solution that enhancing traffic infra
 
 https://github.com/addineduteam/Traffic 
 
