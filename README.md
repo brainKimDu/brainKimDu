@@ -82,7 +82,7 @@ https://github.com/addineduteam/Traffic
 
 
 ## make open Source
-- read csv, excel file and make mySQL table and insert csv, excel data (for local or Amazon AWS)
+- make mySQL table and insert csv, excel data (for local or Amazon AWS)
 
 https://github.com/brainKimDu/SQL_Maker
 
