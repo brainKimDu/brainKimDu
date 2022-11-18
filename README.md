@@ -38,7 +38,7 @@ So, I interested in fire protection system or rescue robot
 </div>
   
   
-<div><h1>🌱 I'm Studing at...</h1></div>
+<div><h1>🌱 I'm Studying at...</h1></div>
 <div>
 <br>
 
@@ -55,7 +55,7 @@ So, I interested in fire protection system or rescue robot
 
 ## project
 
-#### (university senier project) Robot arm contorl by real time image processing 
+#### (university senior project) Robot arm contorl by real time image processing 
 https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-
 
 
@@ -70,12 +70,12 @@ https://github.com/brainKimDu/python-_data
   - Analysis of World Terror Data
   - Electrical engineer license analysis  
   - graphic card price analysis and find reasonble price (using NaverAPI)
-  - Edya is Korean coffee brand. Is Edya opening store nearby starbuks? (using Selenium)
-  - Korean programming lenguage book analysis (using NaverAPI)
+  - Ediya is Korean coffee brand. Is Ediya opening store nearby starbucks? (using Selenium)
+  - Korean programming language book analysis (using NaverAPI)
 
 
 
-#### 🔭 currently studing Project
+#### 🔭 currently stuyding Project
 (EDA project) Analysis on Seoul Traffic Infrastructure and suggesting solution
 
 https://github.com/addineduteam/Traffic 
