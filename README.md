@@ -75,7 +75,7 @@ https://github.com/brainKimDu/python-_data
 
 
 
-#### (term EDA project) Analysis on Seoul Traffic Infrastructure and suggesting solution
+#### (EDA Team project) Analysis on Seoul Traffic Infrastructure and suggesting solution
 https://github.com/addinedu-amr/eda-repo-6 
 
 
