@@ -86,7 +86,7 @@ https://github.com/brainKimDu/SQL_Maker
 
 
 
-<div><h1>🔭 currently stuyding Project </h1></div>
+<div><h1>🔭 currently studying Project </h1></div>
 </div>
 
 #### arduino
