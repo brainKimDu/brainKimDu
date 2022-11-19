@@ -75,10 +75,8 @@ https://github.com/brainKimDu/python-_data
 
 
 
-#### 🔭 currently stuyding Project
-(EDA project) Analysis on Seoul Traffic Infrastructure and suggesting solution
-
-https://github.com/addineduteam/Traffic 
+#### (term EDA project) Analysis on Seoul Traffic Infrastructure and suggesting solution
+https://github.com/addinedu-amr/eda-repo-6 
 
 
 
@@ -88,6 +86,10 @@ https://github.com/addineduteam/Traffic
 https://github.com/brainKimDu/SQL_Maker
 
 
+#### 🔭 currently stuyding Project
+- arduino
+- blog
+- programming Algorithm
 
 <!--
 **brainKimDu/brainKimDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
