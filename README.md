@@ -55,14 +55,12 @@ So, I interested in fire protection system or rescue robot
 
 ## project
 
-#### (university senior project) Robot arm contorl by real time image processing 
+#### (university  graduation work) Robot arm contorl by real time image processing 
 https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-
-
 
 
 #### (Term Project) Mutcoin (Agricultural product management game)
 https://github.com/brainKimDu/JAVA_TermProjeck
-
 
 
 #### (EDA project)
@@ -78,18 +76,23 @@ https://github.com/brainKimDu/python-_data
 #### (EDA Team project) Analysis on Seoul Traffic Infrastructure and suggesting solution
 https://github.com/addinedu-amr/eda-repo-6 
 
-
+#### arduino
+https://github.com/brainKimDu/arduino_elevator
+  - make a arduino elevator
 
 ## make open Source
-- make mySQL table and insert csv, excel data (for local or Amazon AWS)
-
+  - make mySQL table and insert csv, excel data (for local or Amazon AWS)
 https://github.com/brainKimDu/SQL_Maker
 
 
-#### 🔭 currently stuyding Project
-- arduino
-- blog
-- programming Algorithm
+
+<div><h1>🔭 currently stuyding Project </h1></div>
+</div>
+## arduino
+ - https://github.com/brainKimDu/arduino_elevator
+
+## programming Algorithm
+ - https://github.com/brainKimDu/algorithm
 
 <!--
 **brainKimDu/brainKimDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
