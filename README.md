@@ -89,10 +89,10 @@ https://github.com/brainKimDu/SQL_Maker
 <div><h1>🔭 currently stuyding Project </h1></div>
 </div>
 
-## arduino
+#### arduino
  - https://github.com/brainKimDu/arduino_elevator
 
-## programming Algorithm
+#### programming Algorithm
  - https://github.com/brainKimDu/algorithm
 
 
