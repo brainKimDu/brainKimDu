@@ -40,12 +40,12 @@ So, I interested in fire protection system or rescue robot
   
 <div><h1>🌱 I'm Studying at...</h1></div>
 <div>
-<br>
+</br>
 
 ![화면 캡처 2022-11-08 232109](https://user-images.githubusercontent.com/110883172/200596671-081bded6-2298-43ef-8f8d-f84b7d7c7fd8.png)
 ![화면 캡처 2022-11-08 232222](https://user-images.githubusercontent.com/110883172/200596747-ad7f1e9a-f40c-4a9b-b33e-a841bdc1e95c.png)
 
-<br>
+</br>
 </div>
 
 
@@ -88,11 +88,13 @@ https://github.com/brainKimDu/SQL_Maker
 
 <div><h1>🔭 currently stuyding Project </h1></div>
 </div>
+
 ## arduino
  - https://github.com/brainKimDu/arduino_elevator
 
 ## programming Algorithm
  - https://github.com/brainKimDu/algorithm
+
 
 <!--
 **brainKimDu/brainKimDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
