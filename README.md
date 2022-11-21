@@ -77,8 +77,9 @@ https://github.com/brainKimDu/python-_data
 https://github.com/addinedu-amr/eda-repo-6 
 
 #### arduino
+##### make a arduino elevator
 https://github.com/brainKimDu/arduino_elevator
-  - make a arduino elevator
+
 
 ## make open Source
   - make mySQL table and insert csv, excel data (for local or Amazon AWS)
@@ -89,8 +90,6 @@ https://github.com/brainKimDu/SQL_Maker
 <div><h1>🔭 currently studying Project </h1></div>
 </div>
 
-#### arduino
- - https://github.com/brainKimDu/arduino_elevator
 
 #### programming Algorithm
  - https://github.com/brainKimDu/algorithm
