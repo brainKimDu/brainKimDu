@@ -98,7 +98,7 @@ https://github.com/brainKimDu/SQL_Maker
 
 
 ## study group 
-- learn python (6 members)
+### learning python (6 members)
 - https://github.com/brainKimDu/python_begin
 
 <!--
