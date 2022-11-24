@@ -95,6 +95,12 @@ https://github.com/brainKimDu/SQL_Maker
  - https://github.com/brainKimDu/algorithm
 
 
+
+
+## study group 
+- learn python (6 members)
+- https://github.com/brainKimDu/python_begin
+
 <!--
 **brainKimDu/brainKimDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -108,4 +114,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
