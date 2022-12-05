@@ -72,7 +72,6 @@ https://github.com/brainKimDu/python-_data
   - Korean programming language book analysis (using NaverAPI)
 
 
-
 #### (EDA Team project) Analysis on Seoul Traffic Infrastructure and suggesting solution
 https://github.com/addinedu-amr/eda-repo-6 
 
@@ -80,9 +79,8 @@ https://github.com/addinedu-amr/eda-repo-6
 ##### make a arduino elevator
 https://github.com/brainKimDu/arduino_elevator
 
-
 ## make open Source
-- make mySQL table and insert csv, excel data (for local or Amazon AWS)
+- SQL_MAKER
 https://github.com/brainKimDu/SQL_Maker
 
 
@@ -90,10 +88,8 @@ https://github.com/brainKimDu/SQL_Maker
 <div><h1>🔭 currently studying Project </h1></div>
 </div>
 
-
 #### programming Algorithm
  - https://github.com/brainKimDu/algorithm
-
 
 <div><h1> 📖 study group </h1></div>
 </div>
