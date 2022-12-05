@@ -82,7 +82,7 @@ https://github.com/brainKimDu/arduino_elevator
 
 
 ## make open Source
-  - make mySQL table and insert csv, excel data (for local or Amazon AWS)
+- make mySQL table and insert csv, excel data (for local or Amazon AWS)
 https://github.com/brainKimDu/SQL_Maker
 
 
@@ -100,6 +100,9 @@ https://github.com/brainKimDu/SQL_Maker
 
 ### learning python (6 members)
 - https://github.com/brainKimDu/python_begin
+
+### learning Algorithm (6 members)
+- https://github.com/brainKimDu/algorithm
 
 <!--
 **brainKimDu/brainKimDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
