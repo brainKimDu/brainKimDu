@@ -70,12 +70,20 @@ https://github.com/brainKimDu/python-_data
   - Ediya is Korean coffee brand. Is Ediya opening store nearby starbucks? (using Selenium)
   - Analysis on Korean programming language book (using NaverAPI)
 
-#### YOLOv5
+##### (EDA Team project) 
+https://github.com/addinedu-amr/eda-repo-6 
+  - Analysis on Seoul Traffic Infrastructure and suggesting solution
+
+
+#### Deep leearning
+##### toy_project
+- alalysis on cifar10 data
+
+##### YOLOv5
 - Detect and Classify traffic light
   - https://kimbrain.tistory.com/285
 
-#### (EDA Team project) Analysis on Seoul Traffic Infrastructure and suggesting solution
-https://github.com/addinedu-amr/eda-repo-6 
+
 
 #### arduino
 ##### make a arduino elevator
