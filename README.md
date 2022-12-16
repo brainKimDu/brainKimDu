@@ -78,6 +78,7 @@ https://github.com/addinedu-amr/eda-repo-6
 #### Deep leearning
 ##### toy_project
 - alalysis on cifar10 data
+  - https://github.com/brainKimDu/Deep_learning
 
 ##### YOLOv5
 - Detect and Classify traffic light
