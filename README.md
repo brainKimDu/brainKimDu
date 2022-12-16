@@ -71,7 +71,7 @@ https://github.com/brainKimDu/python-_data
   - Analysis on Korean programming language book (using NaverAPI)
 
 #### YOLOv5
-- Detact and Classify traffic light
+- Detect and Classify traffic light
   - https://kimbrain.tistory.com/285
 
 #### (EDA Team project) Analysis on Seoul Traffic Infrastructure and suggesting solution
