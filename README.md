@@ -1,10 +1,9 @@
 ### Hi there 👋
-I am interested in Mobile Robot(AGV, AMR, parcel robot), SDV (self Driving Vehicle) and Robot arm control.
+I am interested in Mobile Robot, SDV (self Driving Vehicle) and Robot arm control.
+
 Also I have engeering license such as Engineer Fire Fighting Facilities - Electrical and Engineer Electricity
-So, I am interested in fire protection system or rescue robot
 
-
-
+So, I am interested in ROS, fire protection system or rescue robot
 
 
 <div><h1>📚 STACKS</h1></div>
@@ -65,12 +64,15 @@ https://github.com/brainKimDu/JAVA_TermProjeck
 
 #### (EDA project)
 https://github.com/brainKimDu/python-_data
-  - Analysis of World Terror Data
-  - Electrical engineer license analysis  
-  - graphic card price analysis and find reasonble price (using NaverAPI)
+  - Analysis on World Terror Data
+  - Analysis on Electrical engineer license 
+  - Analysis on graphic card price and find reasonble price (using NaverAPI)
   - Ediya is Korean coffee brand. Is Ediya opening store nearby starbucks? (using Selenium)
-  - Korean programming language book analysis (using NaverAPI)
+  - Analysis on Korean programming language book (using NaverAPI)
 
+#### YOLOv5
+- Detact and Classify traffic light
+  - https://kimbrain.tistory.com/285
 
 #### (EDA Team project) Analysis on Seoul Traffic Infrastructure and suggesting solution
 https://github.com/addinedu-amr/eda-repo-6 
@@ -81,7 +83,6 @@ https://github.com/brainKimDu/arduino_elevator
 
 ## make open Source
 - SQL_MAKER
-
 https://github.com/brainKimDu/SQL_Maker
 
 
@@ -91,6 +92,9 @@ https://github.com/brainKimDu/SQL_Maker
 
 #### programming Algorithm
  - https://github.com/brainKimDu/algorithm
+ 
+### ROS
+- https://kimbrain.tistory.com/category/LV.5/ROS
 
 <div><h1> 📖 study group </h1></div>
 </div>
