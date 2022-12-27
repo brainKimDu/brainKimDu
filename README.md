@@ -61,7 +61,6 @@ https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-
 #### (Term Project) Mutcoin (Agricultural product management game)
 https://github.com/brainKimDu/JAVA_TermProjeck
 
-
 #### (EDA project)
 https://github.com/brainKimDu/python-_data
   - Analysis on World Terror Data
@@ -73,6 +72,10 @@ https://github.com/brainKimDu/python-_data
 ##### (EDA Team project) 
 https://github.com/addinedu-amr/eda-repo-6 
   - Analysis on Seoul Traffic Infrastructure and suggesting solution
+
+
+#### (IOT Team porject)
+https://github.com/addinedu-amr/iot-repo-6
 
 
 #### Deep leearning
@@ -99,11 +102,12 @@ https://github.com/brainKimDu/SQL_Maker
 <div><h1>🔭 currently studying Project </h1></div>
 </div>
 
-#### programming Algorithm
+### programming Algorithm
  - https://github.com/brainKimDu/algorithm
+
+### IOT project
+- https://github.com/addinedu-amr/iot-repo-6
  
-### ROS
-- https://kimbrain.tistory.com/category/LV.5/ROS
 
 <div><h1> 📖 study group </h1></div>
 </div>
@@ -113,6 +117,9 @@ https://github.com/brainKimDu/SQL_Maker
 
 ### learning Algorithm (6 members)
 - https://github.com/brainKimDu/algorithm
+
+### ROS2 (5 members)
+- https://github.com/brainKimDu/ROS_study
 
 <!--
 **brainKimDu/brainKimDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
