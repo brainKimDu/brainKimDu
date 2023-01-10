@@ -79,6 +79,7 @@ https://github.com/addinedu-amr/eda-repo-6
 
 #### (IOT Team porject)
 https://github.com/addinedu-amr/iot-repo-6
+  - make a smartfactory using DigitalTwin and IOT technology 
 
 
 #### Deep leearning
@@ -101,16 +102,14 @@ https://github.com/brainKimDu/arduino_elevator
 https://github.com/brainKimDu/SQL_Maker
 
 
-
 <div><h1>🔭 currently studying Project </h1></div>
 </div>
 
 ### programming Algorithm
  - https://github.com/brainKimDu/algorithm
-
-### IOT project
-- https://github.com/addinedu-amr/iot-repo-6
  
+### Deep Learning Project
+  - 
 
 <div><h1> 📖 study group </h1></div>
 </div>
