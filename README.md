@@ -109,7 +109,7 @@ https://github.com/brainKimDu/SQL_Maker
  - https://github.com/brainKimDu/algorithm
  
 ### Deep Learning Project
-  - 
+  - https://github.com/addinedu-amr/deeplearning-repo-1
 
 <div><h1> 📖 study group </h1></div>
 </div>
