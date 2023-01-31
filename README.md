@@ -5,6 +5,8 @@ Also I have engeering license such as Engineer Fire Fighting Facilities - Electr
 
 So, I am interested in ROS, fire protection system or rescue robot
 
+I recenly interested in software Architecture engineering 
+
 
 <div><h1>📚 STACKS</h1></div>
 
@@ -83,6 +85,10 @@ https://github.com/addinedu-amr/iot-repo-6
 
 
 #### Deep leearning
+##### (team)Deep Learning Project
+  - https://github.com/addinedu-amr/deeplearning-repo-1
+  - exercise helper using NLP and Pose Estimation
+
 ##### toy_project
 - alalysis on cifar10 data
   - https://github.com/brainKimDu/Deep_learning
@@ -90,6 +96,8 @@ https://github.com/addinedu-amr/iot-repo-6
 ##### YOLOv5
 - Detect and Classify traffic light
   - https://kimbrain.tistory.com/285
+
+
 
 
 
@@ -108,8 +116,7 @@ https://github.com/brainKimDu/SQL_Maker
 ### programming Algorithm
  - https://github.com/brainKimDu/algorithm
  
-### Deep Learning Project
-  - https://github.com/addinedu-amr/deeplearning-repo-1
+### System Architecture
 
 <div><h1> 📖 study group </h1></div>
 </div>
