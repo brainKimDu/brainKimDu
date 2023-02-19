@@ -100,6 +100,14 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
 
 
 ## project
+#### (EDA project)
+  - [(Team)Analysis on Seoul Traffic Infrastructure and suggesting solution](https://github.com/addinedu-amr/eda-repo-6)
+  - [Analysis on World Terror Data](https://github.com/brainKimDu/python-_data)
+  - [Analysis on Electrical engineer license](https://github.com/brainKimDu/python-_data)
+  - [Analysis on graphic card price and find reasonble price (using NaverAPI)](https://github.com/brainKimDu/python-_data)
+  - [Ediya is Korean coffee brand. Is Ediya opening store nearby starbucks? (using Selenium)](https://github.com/brainKimDu/python-_data)
+  - [Analysis on Korean programming language book (using NaverAPI)](https://github.com/brainKimDu/python-_data)
+  
 
 #### (university  graduation work) Robot arm contorl by real time image processing 
 https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-
@@ -108,17 +116,11 @@ https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-
 #### (Term Project) Mutcoin (Agricultural product management game)
 https://github.com/brainKimDu/JAVA_TermProjeck
 
-#### (EDA project)
-https://github.com/brainKimDu/python-_data
-  - Analysis on World Terror Data
-  - Analysis on Electrical engineer license 
-  - Analysis on graphic card price and find reasonble price (using NaverAPI)
-  - Ediya is Korean coffee brand. Is Ediya opening store nearby starbucks? (using Selenium)
-  - Analysis on Korean programming language book (using NaverAPI)
+
 
 ##### (EDA Team project) 
-https://github.com/addinedu-amr/eda-repo-6 
-  - Analysis on Seoul Traffic Infrastructure and suggesting solution
+
+  - 
 
 
 #### (IOT Team porject)
