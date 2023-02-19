@@ -121,7 +121,7 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
   - __(YOLO)__[(Toy)Detect and Classify traffic light](https://kimbrain.tistory.com/285)
 
 #### Robot Project
-  - __(Team)__delivery robot Using ROS (private)
+  - __(Team)__ delivery robot Using ROS (private)
   - __(university graduation work)__[Robot arm contorl by real time image processing](https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-)
 
 #### Toy Project (personal)
