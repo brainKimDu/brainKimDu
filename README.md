@@ -98,16 +98,28 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
 <div><h1>🤔 I made it!... </h1></div>
 </div>
 
+## My Blog
+[BrainKimDu's AI_ROBOT_TECH_BLOG](https://kimbrain.tistory.com/)
 
 ## project
-#### (EDA project)
-  - [__(Team)__Analysis on Seoul Traffic Infrastructure and suggesting solution](https://github.com/addinedu-amr/eda-repo-6)
-  - [(toy)Analysis on World Terror Data](https://github.com/brainKimDu/python-_data)
-  - [(toy)Analysis on Electrical engineer license](https://github.com/brainKimDu/python-_data)
-  - [(toy)Analysis on graphic card price and find reasonble price (using NaverAPI)](https://github.com/brainKimDu/python-_data)
-  - [(toy)Ediya is Korean coffee brand. Is Ediya opening store nearby starbucks? (using Selenium)](https://github.com/brainKimDu/python-_data)
-  - [(toy)Analysis on Korean programming language book (using NaverAPI)](https://github.com/brainKimDu/python-_data)
+#### EDA project
+  - __(Team)__[Analysis on Seoul Traffic Infrastructure and suggesting solution](https://github.com/addinedu-amr/eda-repo-6)
+  - [(Toy)Analysis on World Terror Data](https://github.com/brainKimDu/python-_data)
+  - [(Toy)Analysis on Electrical engineer license](https://github.com/brainKimDu/python-_data)
+  - [(Toy)Analysis on graphic card price and find reasonble price (using NaverAPI)](https://github.com/brainKimDu/python-_data)
+  - [(Toy)Ediya is Korean coffee brand. Is Ediya opening store nearby starbucks? (using Selenium)](https://github.com/brainKimDu/python-_data)
+  - [(Toy)Analysis on Korean programming language book (using NaverAPI)](https://github.com/brainKimDu/python-_data)
   
+  
+#### IOT Project
+  - __(Team)__[make a smartfactory using DigitalTwin and IOT technology](https://github.com/addinedu-amr/iot-repo-6)
+  - [(Toy)make a arduino elevator](https://github.com/brainKimDu/arduino_elevator)
+
+
+#### Deep leearning
+  - __(Team)__[exercise helper using NLP and Pose Estimation](https://github.com/addinedu-amr/deeplearning-repo-1)
+  - [(Toy)alalysis on cifar10 data](https://github.com/brainKimDu/Deep_learning)
+  - __(YOLO)__[(Toy)Detect and Classify traffic light](https://kimbrain.tistory.com/285)
 
 #### (university  graduation work) Robot arm contorl by real time image processing 
 https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-
@@ -118,36 +130,6 @@ https://github.com/brainKimDu/JAVA_TermProjeck
 
 
 
-##### (EDA Team project) 
-
-  - 
-
-
-#### (IOT Team porject)
-https://github.com/addinedu-amr/iot-repo-6
-  - make a smartfactory using DigitalTwin and IOT technology 
-
-
-#### Deep leearning
-##### (team)Deep Learning Project
-  - https://github.com/addinedu-amr/deeplearning-repo-1
-  - exercise helper using NLP and Pose Estimation
-
-##### toy_project
-- alalysis on cifar10 data
-  - https://github.com/brainKimDu/Deep_learning
-
-##### YOLOv5
-- Detect and Classify traffic light
-  - https://kimbrain.tistory.com/285
-
-
-
-
-
-#### arduino
-##### make a arduino elevator
-https://github.com/brainKimDu/arduino_elevator
 
 ## make open Source
 - SQL_MAKER
