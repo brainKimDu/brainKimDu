@@ -30,9 +30,9 @@ If you're interested in learning more about my work, feel free to check out my G
   
   <b>Intermediate</b> :
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <b> , Matplotlib etc, EDA, Machine Learning </b>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> 
+  <b> , Matplotlib etc, EDA, Machine Learning </b>
   <br> While my theoretical knowledge of machine learning and image processing may not be extensive, I have a basic understanding of the concepts and how they can be applied to real-world problems. In addition, I have hands-on experience working with open-source tools like YOLO and SLAM.
 
 Similarly, while I may not have memorized every command in Pandas, I understand how to manipulate data and am confident in my ability to analyze it. With a combination of my knowledge and the power of online search, I'm confident that I can excel in data analysis and stand out from the rest. 
@@ -55,9 +55,9 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
   
   <b>experience</b> :
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-   
-  <br>
-   
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+  <br>I know how to use it.
+  <br>Writing a README is truly enjoyable for me.
   
   
   
