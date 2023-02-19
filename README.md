@@ -5,8 +5,6 @@ I'm brainKimDu, a robotics enthusiast and experienced ROS engineer with a passio
 As a ROS engineer, I've worked on a variety of projects spanning from autonomous navigation to object recognition, and I'm always eager to take on new challenges in this exciting field. I have extensive experience with both the software and hardware aspects of robotics, including ROS, Gazebo, and a variety of sensors and actuators.
 
 I'm always up for a good adventure and am constantly seeking out new challenges and opportunities to learn and grow. I'm also passionate about sharing my knowledge with others Through my Blog
-
-If you're interested in learning more about my work, feel free to check out my GitHub profile and portfolio. I'm always happy to connect with fellow robotics enthusiasts and collaborate on exciting new projects!
 <br>
 <br>
 
