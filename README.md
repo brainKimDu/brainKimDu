@@ -18,10 +18,9 @@ If you're interested in learning more about my work, feel free to check out my G
   <br>
   <br>
   
-  
   <b>Intermediate</b> :  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> 
   <b>Ubuntu 20.04 ROS2 Galactic, Ubuntu 22.04 ROS2 Humble</b>
-  <br> I understanded ROS's Data communication. And I can make a ROS Package for mobile Robot.   
+  <br> I understanded ROS's Data communication. And I can make a ROS Package for mobile Robot(Using Raspberry Pi and Arduino).   
   
   <b>Intermediate</b> :
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
@@ -30,13 +29,17 @@ If you're interested in learning more about my work, feel free to check out my G
   <br>
   <br>
   
-  
+  <b>Beginner</b> :
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <b> , UML, </b> <b> System Architecture </b>
+  <br> I understanded Object oriented programming Through JAVA, recently I interested in Software Design so Learing it.
+  <br> Also experienced Android Studio Using JAVA.
   <br>
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> 
+  <br>
   
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
+  <b>Intermediate</b> :
+  
+   
   <br>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
