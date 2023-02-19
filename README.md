@@ -10,16 +10,26 @@ If you're interested in learning more about my work, feel free to check out my G
 
 <div><h1>📚 My STACKS</h1></div>
 
-<div> 
-  
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<div>
+  <b>Intermediate</b> :  
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <br> I can make a program to meet customer requirements. And, Now studing various algorithm technic
+  <br>
+  <br>
+  
+  
+  <b>Intermediate</b> :  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> 
+  <b>Ubuntu 20.04 ROS2 Galactic, Ubuntu 22.04 ROS2 Humble</b>
+  <br> I understanded ROS's Data communication. And I can make a ROS Package for mobile Robot.   
+  <br>
+  <br>
+  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white"> 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> 
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> 
+  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
