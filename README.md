@@ -1,3 +1,4 @@
+-----------------------------------
 ### Hi there 👋
 I'm brainKimDu, a robotics enthusiast and experienced ROS engineer with a passion for developing AI robotic solutions.
 
@@ -6,7 +7,10 @@ As a ROS engineer, I've worked on a variety of projects spanning from autonomous
 I'm always up for a good adventure and am constantly seeking out new challenges and opportunities to learn and grow. I'm also passionate about sharing my knowledge with others Through my Blog
 
 If you're interested in learning more about my work, feel free to check out my GitHub profile and portfolio. I'm always happy to connect with fellow robotics enthusiasts and collaborate on exciting new projects!
+<br>
+<br>
 
+-----------------------------------
 
 <div><h1>📚 My STACKS</h1></div>
 
@@ -58,28 +62,39 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
   <br>I know how to use it.
   <br>Writing a README is truly enjoyable for me.
-  
-  
-  
-  
-
+  <br>
+  <br>
+  <br>
+  <br>
 </div>
   
+-----------------------------------
   
 <div><h1>🌱 I'm Studying at...</h1></div>
 <div>
 </br>
 
-![화면 캡처 2022-11-08 232109](https://user-images.githubusercontent.com/110883172/200596671-081bded6-2298-43ef-8f8d-f84b7d7c7fd8.png)
-![화면 캡처 2022-11-08 232222](https://user-images.githubusercontent.com/110883172/200596747-ad7f1e9a-f40c-4a9b-b33e-a841bdc1e95c.png)
-![image](https://user-images.githubusercontent.com/110883172/209673085-a3bd720b-4a33-4a2f-b6ec-f28a25657360.png)
-![image](https://user-images.githubusercontent.com/110883172/209673107-f3850d1f-dbcb-4d0f-9af5-dc4ee0dbf4e0.png)
+#### AI Robot Bootcamp with PinkLAB  (RAPA) (2022.09.26 ~2023.04.04)
+<center><img src="https://user-images.githubusercontent.com/110883172/200596671-081bded6-2298-43ef-8f8d-f84b7d7c7fd8.png" width="100" height="50"/></center>
+<center><img src="https://user-images.githubusercontent.com/110883172/200596747-ad7f1e9a-f40c-4a9b-b33e-a841bdc1e95c.png" width="100" height="50"/></center>
+</br>
+
+
+#### H-Mobility autonomous driving (2023.01.02 ~ 
+<center><img src="https://user-images.githubusercontent.com/110883172/209673085-a3bd720b-4a33-4a2f-b6ec-f28a25657360.png" width="100" height="50"/></center>
+</br>
+
+
+#### LG AImers  (2023.01.02 ~ 
+<center><img src="https://user-images.githubusercontent.com/110883172/209673107-f3850d1f-dbcb-4d0f-9af5-dc4ee0dbf4e0.png" width="100" height="50"/></center>
+</br>
+
 
 
 </br>
+</br>
+
 </div>
-
-
 <div><h1>🤔 I made it!... </h1></div>
 </div>
 
