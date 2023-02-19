@@ -101,12 +101,12 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
 
 ## project
 #### (EDA project)
-  - [(Team)Analysis on Seoul Traffic Infrastructure and suggesting solution](https://github.com/addinedu-amr/eda-repo-6)
-  - [Analysis on World Terror Data](https://github.com/brainKimDu/python-_data)
-  - [Analysis on Electrical engineer license](https://github.com/brainKimDu/python-_data)
-  - [Analysis on graphic card price and find reasonble price (using NaverAPI)](https://github.com/brainKimDu/python-_data)
-  - [Ediya is Korean coffee brand. Is Ediya opening store nearby starbucks? (using Selenium)](https://github.com/brainKimDu/python-_data)
-  - [Analysis on Korean programming language book (using NaverAPI)](https://github.com/brainKimDu/python-_data)
+  - [__(Team)__Analysis on Seoul Traffic Infrastructure and suggesting solution](https://github.com/addinedu-amr/eda-repo-6)
+  - [(toy)Analysis on World Terror Data](https://github.com/brainKimDu/python-_data)
+  - [(toy)Analysis on Electrical engineer license](https://github.com/brainKimDu/python-_data)
+  - [(toy)Analysis on graphic card price and find reasonble price (using NaverAPI)](https://github.com/brainKimDu/python-_data)
+  - [(toy)Ediya is Korean coffee brand. Is Ediya opening store nearby starbucks? (using Selenium)](https://github.com/brainKimDu/python-_data)
+  - [(toy)Analysis on Korean programming language book (using NaverAPI)](https://github.com/brainKimDu/python-_data)
   
 
 #### (university  graduation work) Robot arm contorl by real time image processing 
