@@ -115,25 +115,18 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
   - __(Team)__[make a smartfactory using DigitalTwin and IOT technology](https://github.com/addinedu-amr/iot-repo-6)
   - [(Toy)make a arduino elevator](https://github.com/brainKimDu/arduino_elevator)
 
-
 #### Deep leearning
   - __(Team)__[exercise helper using NLP and Pose Estimation](https://github.com/addinedu-amr/deeplearning-repo-1)
   - [(Toy)alalysis on cifar10 data](https://github.com/brainKimDu/Deep_learning)
   - __(YOLO)__[(Toy)Detect and Classify traffic light](https://kimbrain.tistory.com/285)
 
-#### (university  graduation work) Robot arm contorl by real time image processing 
-https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-
+#### Robot Project
+  - __(Team)__delivery robot Using ROS (private)
+  - __(university graduation work)__ [Robot arm contorl by real time image processing] (https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-)
 
-
-#### (Term Project) Mutcoin (Agricultural product management game)
-https://github.com/brainKimDu/JAVA_TermProjeck
-
-
-
-
-## make open Source
-- SQL_MAKER
-https://github.com/brainKimDu/SQL_Maker
+#### Toy Project (personal)
+  - __(Term Project)__[Mutcoin (Agricultural product management game)](https://github.com/brainKimDu/JAVA_TermProjeck)
+  - __(openSource)__[SQL_MAKER](https://github.com/brainKimDu/SQL_Maker)
 
 
 <div><h1>🔭 currently studying Project </h1></div>
