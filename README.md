@@ -14,7 +14,7 @@ If you're interested in learning more about my work, feel free to check out my G
   <b>Intermediate</b> :  
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br> I can make a program to meet customer requirements. And, Now studing various algorithm technic
+  <br> I have a strong ability to translate requirements into programming logic using C++ and Python. However, when it comes to delving deep into algorithms and considering memory efficiency and time complexity, I still have room to grow. While I may not yet be an expert in these areas, I'm enthusiastic about expanding my knowledge and skills to develop more efficient and effective solutions.
   <br>
   <br>
   
@@ -48,8 +48,7 @@ If you're interested in learning more about my work, feel free to check out my G
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"> 
   <b> , Deep_Learning </b>
-  <br> I understanded Object oriented programming Through JAVA, recently I interested in Software Design so Learing it.
-  <br> Also experienced Android Studio Using JAVA.
+  <br> When it comes to deep learning, I excel at working with open-source tools like YOLO and MediaPipe etc. However, I am not able to analyze models with untraceable processes. While I may not have a deep understanding of the underlying algorithms, I am confident in my ability to use these tools effectively to solve real-world problems. As I continue to grow and develop my skills, I am excited to learn more about the theoretical aspects of deep learning and further enhance my expertise.
   <br>
   <br>
   
