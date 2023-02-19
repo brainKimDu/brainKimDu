@@ -44,7 +44,7 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
   <b>Beginner</b> :
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <b> , UML, </b> <b> System Architecture, MLOps </b>
-  <br> I understanded Object oriented programming Through JAVA, recently I interested in Software Design so Learning it.
+  <br> I understanded Object oriented programming Through JAVA. Recently I interested in Software Design so Learning it.
   <br> Also experienced Android Studio Using JAVA.
   <br>
   <br>
@@ -146,7 +146,7 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
 
 #### (ROS2) Studying ROS2
   - [ROS2 Basics](https://kimbrain.tistory.com/category/LV.5/ROS)
-  - [ROS2 Mobile Robot for driving robot](https://kimbrain.tistory.com/category/LV.5/%EC%A3%BC%ED%96%89%EB%A1%9C%EB%B4%87)
+  - [ROS2 driving robot](https://kimbrain.tistory.com/category/LV.5/%EC%A3%BC%ED%96%89%EB%A1%9C%EB%B4%87)
   
 For more information on my study materials, please refer to my blog.
 [BrainKimDu's AI_ROBOT_TECH_BLOG](https://kimbrain.tistory.com/)
