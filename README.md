@@ -25,7 +25,7 @@ If you're interested in learning more about my work, feel free to check out my G
   <b>Intermediate</b> :
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
   <b>Ubuntu 20.04, Ubuntu 22.04 </b>
-  <br> I be used to Ubuntu. I'm easier to work with Linux than with Windows.
+  <br> Since I do all of my work on Ubuntu, I find it much more convenient to work with Ubuntu than other operating systems. 
   <br>
   
   <b>Intermediate</b> :
