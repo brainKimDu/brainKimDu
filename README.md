@@ -25,6 +25,14 @@ If you're interested in learning more about my work, feel free to check out my G
   <br>
   <br>
   
+  <b>Intermediate</b> :
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
+  <b>Ubuntu 20.04, Ubuntu 22.04 </b>
+  <br> I be used to Ubuntu. I'm easier to work with Linux than with Windows.
+  <br>
+  <br>
+  
+  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white"> 
@@ -39,7 +47,7 @@ If you're interested in learning more about my work, feel free to check out my G
   
   <br>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
+  
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/NaverAPI-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
