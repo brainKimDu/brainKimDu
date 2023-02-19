@@ -28,19 +28,24 @@ If you're interested in learning more about my work, feel free to check out my G
   <br> I be used to Ubuntu. I'm easier to work with Linux than with Windows.
   <br>
   
+  <b>Intermediate</b> :
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <b> , Matplotlib etc, EDA, Machine Learning </b>
+  <br> While I may not have memorized every command in Pandas, I understand how to manipulate data and am confident in my ability to analyze it. With a combination of my knowledge and the power of online search, I'm confident that I can excel in data analysis and stand out from the rest.
+  
   <b>Beginner</b> :
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <b> , UML, </b> <b> System Architecture </b>
+  <b> , UML, </b> <b> System Architecture, MLOps </b>
   <br> I understanded Object oriented programming Through JAVA, recently I interested in Software Design so Learing it.
   <br> Also experienced Android Studio Using JAVA.
   <br>
   <br>
   
-  <b>Intermediate</b> :
+  <b>Beginner</b> :
   
    
   <br>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
+   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
