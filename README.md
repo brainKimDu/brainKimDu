@@ -27,7 +27,6 @@ If you're interested in learning more about my work, feel free to check out my G
   <b>Ubuntu 20.04, Ubuntu 22.04 </b>
   <br> I be used to Ubuntu. I'm easier to work with Linux than with Windows.
   <br>
-  <br>
   
   <b>Beginner</b> :
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
