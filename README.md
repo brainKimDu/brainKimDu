@@ -121,37 +121,51 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
   - __(YOLO)__[(Toy)Detect and Classify traffic light](https://kimbrain.tistory.com/285)
 
 #### Robot Project
-  - __(Team)__ delivery robot Using ROS (private)
+  - __(Team)__ (🔭 currently studying Project)delivery robot Using ROS (private)
   - __(university graduation work)__[Robot arm contorl by real time image processing](https://github.com/brainKimDu/Real-Time-image-processing-Using-Robot-ARM-)
 
 #### Toy Project (personal)
   - __(Term Project)__[Mutcoin (Agricultural product management game)](https://github.com/brainKimDu/JAVA_TermProjeck)
   - __(openSource)__[SQL_MAKER](https://github.com/brainKimDu/SQL_Maker)
-  - __(OpenSource)__(Making..)My Fleet Management Program(Private)
+  - __(OpenSource)__(🔭 currently studying Project)My Fleet Management Program(Private)
 
 
-<div><h1>🔭 currently studying Project </h1></div>
+<br>
+<br>
+
+<div><h1> 📔 Study History (My Blog) </h1></div>
+
+#### (Programing Skill) Studying programming Algorithm and C++
+  - [Studying practical C++](https://kimbrain.tistory.com/category/LV.2/%EC%8B%A4%EB%AC%B4%20C%2B%2B))
+    - [GITHUB](https://github.com/brainKimDu/algorithm)
+    - [analysis Data structures on Bolg](https://kimbrain.tistory.com/category/LV.3/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+    - [Algorithm problem solving on Bolg](https://kimbrain.tistory.com/category/%EC%A0%95%EA%B7%9C%20%EC%99%B8/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
+
+#### (ROS2) Studying ROS2
+  - [ROS2 Basics](https://kimbrain.tistory.com/category/LV.5/ROS)
+  - [ROS2 Mobile Robot for driving robot](https://kimbrain.tistory.com/category/LV.5/%EC%A3%BC%ED%96%89%EB%A1%9C%EB%B4%87)
+  
+For more information on my study materials, please refer to my blog.
+[BrainKimDu's AI_ROBOT_TECH_BLOG](https://kimbrain.tistory.com/)
+
 </div>
 
-### programming Algorithm
- - https://github.com/brainKimDu/algorithm
- 
-### System Architecture
-
-### (now) delivery robot
 
 
 <div><h1> 📖 study group </h1></div>
 </div>
 
-### learning python (6 members)
-- https://github.com/brainKimDu/python_begin
+### learning python (22.10~22.12) (6 members)
+- [GITHUB](https://github.com/brainKimDu/python_begin)
+- [Blog](https://kimbrain.tistory.com/category/---------%EC%8A%A4%ED%84%B0%EB%94%94---------/S.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EC%8A%A4%ED%84%B0%EB%94%94%2822.10~22.12%29)
 
-### learning Algorithm (6 members)
-- https://github.com/brainKimDu/algorithm
+### learning Algorithm (22.10 ~ ...)(6 members)
+- I am taking a break because I am too busy with my projects
+- [GITHUB](https://github.com/brainKimDu/algorithm)
+- [Blog](https://kimbrain.tistory.com/category/---------%EC%8A%A4%ED%84%B0%EB%94%94---------/S.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94)
 
-### ROS2 (5 members)
-- https://github.com/brainKimDu/ROS_study
+
+
 
 <!--
 **brainKimDu/brainKimDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
