@@ -35,7 +35,7 @@ I'm always up for a good adventure and am constantly seeking out new challenges 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> 
   <b> , Matplotlib etc, EDA, Machine Learning </b>
-  <br> While my theoretical knowledge of machine learning and image processing may not be extensive, I have a basic understanding of the concepts and how they can be applied to real-world problems. In addition, I have hands-on experience working with open-source tools like YOLO and SLAM.
+  <br> While my theoretical knowledge of machine learning and image processing may not be extensive, I have a basic understanding of the concepts and how they can be applied to real-world problems.
 
 Similarly, while I may not have memorized every command in Pandas, I understand how to manipulate data and am confident in my ability to analyze it. With a combination of my knowledge and the power of online search, I'm confident that I can excel in data analysis and stand out from the rest. 
   
