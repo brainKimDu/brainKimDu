@@ -1,16 +1,17 @@
 ### Hi there 👋
-I am interested in Mobile Robot, SDV (self Driving Vehicle) and Robot arm control.
+I'm brainKimDu, a robotics enthusiast and experienced ROS engineer with a passion for developing AI robotic solutions.
 
-Also I have engeering license such as Engineer Fire Fighting Facilities - Electrical and Engineer Electricity
+As a ROS engineer, I've worked on a variety of projects spanning from autonomous navigation to object recognition, and I'm always eager to take on new challenges in this exciting field. I have extensive experience with both the software and hardware aspects of robotics, including ROS, Gazebo, and a variety of sensors and actuators.
 
-So, I am interested in ROS, fire protection system or rescue robot
+I'm always up for a good adventure and am constantly seeking out new challenges and opportunities to learn and grow. I'm also passionate about sharing my knowledge with others Through my Blog
 
-I recenly interested in software Architecture engineering 
+If you're interested in learning more about my work, feel free to check out my GitHub profile and portfolio. I'm always happy to connect with fellow robotics enthusiasts and collaborate on exciting new projects!
 
 
-<div><h1>📚 STACKS</h1></div>
+<div><h1>📚 My STACKS</h1></div>
 
 <div> 
+  
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
