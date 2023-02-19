@@ -51,7 +51,7 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"> 
   <b> , Deep_Learning </b>
-  <br> When it comes to deep learning, I good at working with open-source tools like YOLO and MediaPipe etc. However, I am not able to analyze models with untraceable processes. While I may not have a deep understanding of the underlying algorithms, I am confident in my ability to use these tools effectively to solve real-world problems. As I continue to grow and develop my skills, I am excited to learn more about the theoretical aspects of deep learning and further enhance my expertise.
+  <br> When it comes to deep learning, I good at working with open-source tools like YOLO and MediaPipe etc. While I may not have a deep understanding of the underlying algorithms, I am confident in my ability to use these tools effectively to solve real-world problems. As I continue to grow and develop my skills, I am excited to learn more about the theoretical aspects of deep learning and further enhance my expertise.
   <br>
   <br>
   
