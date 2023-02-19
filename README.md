@@ -16,7 +16,7 @@ I'm always up for a good adventure and am constantly seeking out new challenges 
   <b>Intermediate</b> :  
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br> I have a ability to translate requirements into programming logic using C++ and Python. However, when it comes to delving deep into algorithms and considering memory efficiency and time complexity, I still have room to grow. While I may not yet be an expert in these areas, I'm enthusiastic about expanding my knowledge and skills to develop more efficient and effective solutions.
+  <br> I have a ability to translate requirements into programming logic using C++ and Python. However, when it comes to delving deep into algorithms and considering memory efficiency and time complexity, I still have room to grow. While I may not yet be an expert in these areas, I'm enthusiastic about expanding my knowledge and skills.
   <br>
   <br>
   
