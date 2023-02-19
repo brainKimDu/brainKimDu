@@ -22,8 +22,6 @@ If you're interested in learning more about my work, feel free to check out my G
   <b>Intermediate</b> :  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> 
   <b>Ubuntu 20.04 ROS2 Galactic, Ubuntu 22.04 ROS2 Humble</b>
   <br> I understanded ROS's Data communication. And I can make a ROS Package for mobile Robot.   
-  <br>
-  <br>
   
   <b>Intermediate</b> :
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
