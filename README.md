@@ -129,6 +129,9 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
   - __(openSource)__[SQL_MAKER](https://github.com/brainKimDu/SQL_Maker)
   - __(OpenSource)__(🔭 currently studying Project)My Fleet Management Program(Private)
 
+#### Hackathon
+  - [BEAVERWORKS NLP Hackathon feat PinkLab](https://kimbrain.tistory.com/entry/PinkLab-%EC%A3%BC%EA%B4%80-%EB%B9%84%EB%B2%84%EC%9B%8D%EC%8A%A4-%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC-%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%8C%80%ED%9A%8C%EB%A5%BC-%EC%B0%B8%EC%97%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
+  - [PinkLab LobotArm hackathon](https://github.com/brainKimDu/PinkLab-LobotArm-hackathon)
 
 <br>
 <br>
