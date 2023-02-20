@@ -16,7 +16,7 @@ I'm always up for a good adventure and am constantly seeking out new challenges 
   <b>Intermediate</b> :  
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br> I have a ability to translate requirements into programming logic using C++ and Python. However, when it comes to delving deep into algorithms and considering memory efficiency and time complexity, I still have room to grow. While I may not yet be an expert in these areas, I'm enthusiastic about expanding my knowledge and skills.
+  <br> I have a ability to translate requirements into programming logic using C++ and Python. However, When it comes to delving deep into algorithms and considering memory efficiency and time complexity, I know I have room to improve. While I may not yet be an expert in these areas, I'm enthusiastic about expanding my knowledge and skills.
   <br>
   <br>
   
@@ -27,7 +27,7 @@ I'm always up for a good adventure and am constantly seeking out new challenges 
   <b>Intermediate</b> :
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black"> 
   <b>Ubuntu 20.04, Ubuntu 22.04 </b>
-  <br> Since I do all of my work on Ubuntu, I find it much more convenient to work with Ubuntu than other operating systems. 
+  <br> Since I do all of my work on Ubuntu, I find it more convenient to work with Ubuntu than other operating systems. 
   <br>
   
   <b>Intermediate</b> :
@@ -37,12 +37,12 @@ I'm always up for a good adventure and am constantly seeking out new challenges 
   <b> , Matplotlib etc, EDA, Machine Learning </b>
   <br> While my theoretical knowledge of machine learning and image processing may not be extensive, I have a basic understanding of the concepts and how they can be applied to real-world problems.
 
-Similarly, while I may not have memorized every command in Pandas, I understand how to manipulate data and am confident in my ability to analyze it. With a combination of my knowledge and the power of online search, I'm confident that I can excel in data analysis and stand out from the rest. 
+ Similarly, although I may not have memorized every command in Pandas, I understand how to manipulate data and am confident in my ability to analyze it. With a combination of my knowledge and the power of online search, I'm confident that I can excel in data analysis and stand out from the rest. 
   
   <b>Beginner</b> :
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <b> , UML, </b> <b> System Architecture, MLOps </b>
-  <br> I understanded Object oriented programming Through JAVA. Recently I interested in Software Design so Learning it.
+  <br> Recently, I became interested in software design, so I am learning more about it.
   <br> Also experienced Android Studio Using JAVA.
   <br>
   <br>
@@ -51,7 +51,7 @@ Similarly, while I may not have memorized every command in Pandas, I understand 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"> 
   <b> , Deep_Learning </b>
-  <br> When it comes to deep learning, I good at working with open-source tools like YOLO and MediaPipe etc. While I may not have a deep understanding of the underlying algorithms, I am confident in my ability to use these tools effectively to solve real-world problems. As I continue to grow and develop my skills, I am excited to learn more about the theoretical aspects of deep learning and further enhance my expertise.
+  <br> When it comes to deep learning, I am proficient at working with open-source tools like YOLO and MediaPipe, among others. While I may not have a deep understanding of the underlying algorithms, I am confident in my ability to use these tools effectively to solve real-world problems. As I continue to grow and develop my skills, I am excited to learn more about the theoretical aspects of deep learning and further enhance my expertise.
   <br>
   <br>
   
