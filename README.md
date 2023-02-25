@@ -83,7 +83,7 @@ I'm always up for a good adventure and am constantly seeking out new challenges 
 </br>
 
 
-#### LG AImers  (2023.01.02 ~ 
+#### LG AImers  (2023.01.02 ~ 2023.02.28)
 <center><img src="https://user-images.githubusercontent.com/110883172/209673107-f3850d1f-dbcb-4d0f-9af5-dc4ee0dbf4e0.png" width="100" height="50"/></center>
 </br>
 
