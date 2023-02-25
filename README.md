@@ -141,7 +141,7 @@ I'm always up for a good adventure and am constantly seeking out new challenges 
     - [GITHUB](https://github.com/brainKimDu/algorithm)
     - [analysis Data structures on Bolg](https://kimbrain.tistory.com/category/LV.3/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
     - [Algorithm problem solving on Bolg](https://kimbrain.tistory.com/category/%EC%A0%95%EA%B7%9C%20%EC%99%B8/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
-
+    - Practical-oriented C++
 #### (ROS2) Studying ROS2
   - [ROS2 Basics](https://kimbrain.tistory.com/category/LV.5/ROS)
   - [ROS2 driving robot](https://kimbrain.tistory.com/category/LV.5/%EC%A3%BC%ED%96%89%EB%A1%9C%EB%B4%87)
